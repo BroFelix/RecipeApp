@@ -1,6 +1,6 @@
 # recipe_flutter
 
-A new Flutter project.
+Flutter Application for Sharing and Learning Cook Recipes.
 
 ## Getting Started
 
