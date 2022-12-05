@@ -1,6 +1,6 @@
 # recipe_flutter
 
-Flutter Application for Sharing and Learning Cook Recipes.
+Flutter Application for Sharing and Learning Cooking Recipes.
 
 ## Getting Started
 
